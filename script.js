@@ -9,7 +9,7 @@
     const tape = document.getElementById("tape");
 
     const closeBtns = document.querySelectorAll('.close');
-
+// 
 
     //-----------------open overlays------------------
     
